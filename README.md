@@ -1,4 +1,5 @@
 https://github.com/ydwen/caffe-face
+https://github.com/Microsoft/caffe
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
